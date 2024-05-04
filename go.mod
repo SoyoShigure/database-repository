@@ -1,4 +1,4 @@
-module github.com/soyoshigure/database-repository
+module github.com/soyoshigure/dbrepo
 
 go 1.20
 
